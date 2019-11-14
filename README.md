@@ -33,7 +33,7 @@ You should be able to set it up by clicking the following Heroku button.
 
 The following environment variables are available:
 
-* API\_KEY - This is how you authenticate with  Eleventy Rest. Using the Heroku button one will be generated for you.
+* API\_KEY - This is how you authenticate with  Eleventy Post. Using the Heroku button one will be generated for you.
 * GITHUB\_TOKEN - This is the API token used to authenticate with Github. You can create one on Github with Settings > Developer Settings
 * GITHUB\_REPO - What repo do you want to post to.
 * GITHUB\_USER - The Github user account (could also be an organization)
